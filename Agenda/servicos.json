@@ -1,0 +1,13 @@
+
+[
+    { "tipo": "Trança", "id": "09", "cliente": "J.Calleri", "horario": "12:00", "status": "Realizado" },
+    { "tipo": "Moica trem", "id": "08", "cliente": "E.Arantes", "horario": "11:20", "status": "Não realizado" },
+    { "tipo": "Mullet", "id": "07", "cliente": "L.Messi", "horario": "10:50", "status": "Realizado" },
+    { "tipo": "Topete", "id": "06", "cliente": "T.Ventura", "horario": "10:30", "status": "Realizado" },
+    { "tipo": "Barba", "id": "03", "cliente": "T.Ventura", "horario": "10:10", "status": "Realizado" },
+    { "tipo": "Sobrancelha", "id": "12", "cliente": "F.Barsano", "horario": "9:35", "status": "Não realizado" },
+    { "tipo": "Freestyle", "id": "95", "cliente": "R.Marquinhos", "horario": "9:05", "status": "Realizado" },
+    { "tipo": "Luzes", "id": "20", "cliente": "B.Wayne", "horario": "8:55", "status": "Realizado" },
+    { "tipo": "Degradê", "id": "27", "cliente": "W.Rato", "horario": "8:35", "status": "Realizado" },
+    { "tipo": "Calvão de cria", "id": "100", "cliente": "M.Depay", "horario": "8:35", "status": "Não realizado" }
+]

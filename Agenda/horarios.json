@@ -1,0 +1,12 @@
+[
+    { "horario": "12:30 até 13:00", "status": "Livre" },
+    { "horario": "13:30 até 14:00", "status": "Ocupado" },
+    { "horario": "14:20 até 14:25", "status": "Livre" },
+    { "horario": "14:40 até 14:50", "status": "Ocupado" },
+    { "horario": "15:10 até 16:20", "status": "Livre" },
+    { "horario": "16:40 até 17:50", "status": "Ocupado" },
+    { "horario": "18:40 até 19:50", "status": "Ocupado" },
+    { "horario": "19:50 até 20:00", "status": "Livre" },
+    { "horario": "20:30 até 20:50", "status": "Livre" },
+    { "horario": "21:20 até 21:50", "status": "Ocupado" }
+]

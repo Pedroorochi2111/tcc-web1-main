@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pricing-section {
+    text-align: center;
+}
+
+.pricing-section h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.pricing-section p {
+    margin-bottom: 20px;
+}
+
+.plans-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.plan {
+    background-color:var(--black-06, #182026);;
+
+    padding: 20px;
+    width: 250px;
+    text-align: left;
+}
+
+.plan h2 {
+    margin-bottom: 10px;
+    color: #FFF;
+    font-family: Mohave;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.plan ul {
+    list-style: none;
+    margin-bottom: 20px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px; /* 192.857% */
+}
+
+.plan ul li {
+    margin-bottom: 5px;
+}
+
+.plan .price {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+button {
+    background: #E1E1E1;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 50px;
+}
+.plan-bronze {
+    border-top: 20px solid;
+    width: 385px;
+    height: 297px;
+    border-image-slice: 1;
+    border-image-source:linear-gradient(90deg, #DB6C2B 0%, #673208 100%)
+
+}
+
+
+.plan-silver {
+    border-top: 20px solid;
+    width: 385px;
+    height: 438px;
+    border-image-slice: 1;
+    border-image-source:linear-gradient(90deg, #C0C0C0 0%, #4F4F4F 100%);
+}
+
+.plan-deluxe {
+    border-top: 20px solid  #F8B631 ;
+    width: 385px;
+    height: 564.25px;
+}
+.h1-last{
+    color: #FFF;
+    font-family: Mohave;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    width: 390px;
+    margin-top:-650px;
+}
+.slogan-principal{
+    margin-top: -35px;
+    margin-left: 130px;
+    position: absolute;
+}
+.slogan-secundario{
+    margin-top: -35px;
+    margin-left: 135px;
+    position: absolute;
+}
+.slogan-terciario{
+    margin-top: -35px;
+    margin-left: 135px;
+    position: absolute;
+} 
