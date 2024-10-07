@@ -109,26 +109,26 @@ section {
 
 .swiper-slide--two {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url(../img/corte2.svg
+    url(../img/calvaodecria.svg
     )
       no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--three {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url(../img/corte3.svg)
+    url(../img/vovofagner.svg)
       no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--four {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url(../img/corte4.svg)
+    url(../img/cacarato.svg)
       no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--five {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url(../img/corte5.svg)
+    url(../img/perfeicao.svg)
       no-repeat 50% 50% / cover;
 }
 
